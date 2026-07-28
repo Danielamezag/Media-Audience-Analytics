@@ -21,7 +21,7 @@ The goals of this project were to:
 - Clean and prepare the dataset.
 - Analyze audience engagement using SQL.
 - Build a  dashboard in Power BI for visualization.
-- Give business recommendations based on the findings.???????????????
+- Give business recommendations based on the findings.
 
 ## Dataset
 
